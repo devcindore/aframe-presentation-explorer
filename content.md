@@ -578,3 +578,11 @@ AFRAME.registerComponent('crazy-position', {
 - Telegram : [WebVR India : telegram.me/WebVRIndia](https://telegram.me/WebVRIndia)
 - Telegram : [Mozilla VR : telegram.me/MozillaVR](https://telegram.me/MozillaVR)
 - Tweet With : #WebVRCamp, @aframevr, @mozillavr, @ram_gurumukhi
+
+# Links
+
+- Demo : [gurumukhi.github.io/vr-ram/](https://gurumukhi.github.io/vr-ram/)
+- Telegram : [WebVR India : telegram.me/WebVRIndia](https://telegram.me/WebVRIndia)
+- Telegram : [Mozilla VR : telegram.me/MozillaVR](https://telegram.me/MozillaVR)
+- Tweet With : #WebVRCamp, @aframevr, @mozillavr, @mrinal_geek
+- Facebook : 
